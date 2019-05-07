@@ -7,4 +7,6 @@ public class RarityBattle implements Batle {
     public int checkWinner(List<Card> deck1, List<Card> deck2) {
         return 0;
     }
+
+    private int test=0;
 }
